@@ -71,7 +71,13 @@
         print(resp.status_code)
         print(resp.json())
 
+##Authentication:
+    Authentication is like validating a user or service. or it is like validating the identity of the user or service.
+    There are ways of validating the identity like using passwords, single-factor authentication, multi-factor authentication, etc.
+
+
 ## Authorization:
+    Authorisation is the process of permitting the user or service to access specific resources.
     It is like who can access what things.
     If I knows someone is authentication but that doesn't mean that someone have all the access which I have.
 
